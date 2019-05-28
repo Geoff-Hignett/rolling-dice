@@ -1,0 +1,12 @@
+.RollDie {
+  display: flex;
+}
+
+button {
+  background: firebrick;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 15px;
+  border: none;
+}
